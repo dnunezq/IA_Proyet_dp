@@ -73,12 +73,10 @@ of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
-  - **Billie Thompson** - *Provided README Template* -
-    [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
-who participated in this project.
+  - **David Núñez** 
+  - **Fabian Andrés Ruiz**
+  - **María Sol Botello**
+  - ** Sofia Salinas Rico**
 
 ## License
 
