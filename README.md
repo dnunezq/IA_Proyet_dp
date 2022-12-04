@@ -7,7 +7,7 @@ En este proyecto se propone generar un modelo que permita calcular la mediana de
 El proyecto cuenta con los siguientes recursos:
 - link del doumento : [documento](https://github.com/dnunezq/IA_Proyet_dp/blob/main/Proyecto_final_Intro_IA.pdf)
 - link del video: [video](https://vimeo.com/777748127)
-- link notebook interactivo : [notebook](http://34.125.227.157:8080/notebooks/work/Pedicci%C3%B3n%20del%20precio%20de%20NFT's%20.ipynb/?token=ecd742482430bd26924140ed338f1e1164a01e2414968da54bdf7fb76c63a74e)
+- link notebook interactivo : [notebook](http://34.125.227.157:8080/notebooks/work/Predicci%C3%B3n%20del%20precio%20de%20NFT's%20.ipynb/?token=ecd742482430bd26924140ed338f1e1164a01e2414968da54bdf7fb76c63a74e)
 
 ## Getting Started
 
