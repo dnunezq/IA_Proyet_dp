@@ -9,7 +9,7 @@ El proyecto cuenta con los siguientes recursos:
 - link del video: [video](https://vimeo.com/777748127)
 - link notebook interactivo : [notebook](http://34.125.227.157:8080/notebooks/work/Predicci%C3%B3n%20del%20precio%20de%20NFT's%20.ipynb/?token=ecd742482430bd26924140ed338f1e1164a01e2414968da54bdf7fb76c63a74e)
 
-## Getting Started
+## Getting Started 
 
 These instructions will give you a copy of the project up and running on
 your local machine for development and testing purposes. See deployment
@@ -18,59 +18,38 @@ for notes on deploying the project on a live system.
 ### Prerequisites
 
 Requirements for the software and other tools to build, test and push 
-- [Example 1](https://www.example.com)
-- [Example 2](https://www.example.com)
+- [install npm](https://www.example.com](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development
-environment running
 
-Say what the step will be
+Install the dependencies
 
-    Give the example
+    npm i 
 
-And repeat
+And run with 
 
-    until finished
-
-End with an example of getting some data out of the system or using it
-for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Sample Tests
-
-Explain what these tests test and why
-
-    Give an example
-
-### Style test
-
-Checks if the best practices and the right coding style has been used.
-
-    Give an example
-
-## Deployment
-
-Add additional notes to deploy this on a live system
-
-## Built With
-
-  - [Contributor Covenant](https://www.contributor-covenant.org/) - Used
-    for the Code of Conduct
-  - [Creative Commons](https://creativecommons.org/) - Used to choose
-    the license
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
-of conduct, and the process for submitting pull requests to us.
+    mpn run start
+    
+## Getting Started  (Notebook)
 
 
+### Prerequisites
 
+Requirements for the software and other tools to build, test and push 
+- [install requirements](https://github.com/dnunezq/IA_Proyet_dp/blob/main/notebook/requirements.txt)
+
+### Installing
+
+
+Install the requirements
+
+    cd /notebook
+    pip install -r requirements.txt
+
+And run the notebook 
+
+    
 ## Authors
 
   - **David Núñez** 
