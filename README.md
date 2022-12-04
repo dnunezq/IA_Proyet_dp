@@ -76,7 +76,7 @@ of conduct, and the process for submitting pull requests to us.
   - **David Núñez** 
   - **Fabian Andrés Ruiz**
   - **María Sol Botello**
-  - ** Sofia Salinas Rico**
+  - **Sofia Salinas Rico**
 
 ## License
 
