@@ -49,6 +49,8 @@ Install the requirements
     pip install -r requirements.txt
 
 And run the notebook 
+    
+    jupyter notebook Predicción del precio de NFT's .ipynb
 
     
 ## Authors
