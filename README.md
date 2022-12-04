@@ -37,7 +37,8 @@ And run with
 ### Prerequisites
 
 Requirements for the software and other tools to build, test and push 
-- [install requirements](https://github.com/dnunezq/IA_Proyet_dp/blob/main/notebook/requirements.txt)
+- [install juyter](https://jupyter.org/install)
+- install requirements
 
 ### Installing
 
