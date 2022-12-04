@@ -1,4 +1,4 @@
-# Predicción mediana del precio de NFT's 
+# Predicción mediana del precio de NFT's usando LSTM
 
 El surgimiento de la tecnología blockchain, los contratos inteligentes y en general el mundo de las criptomonedas ha generado un nuevo mercado de distintos objetos como imagenes o terrenos virtuales. Estos objetos llamados  tokens suelen estar caracterizados por ser unicos, es decir, que solo tienen un propietario y por pertenecer a un contratointeligente.
 
@@ -69,11 +69,7 @@ Add additional notes to deploy this on a live system
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
 of conduct, and the process for submitting pull requests to us.
 
-## Versioning
 
-We use [Semantic Versioning](http://semver.org/) for versioning. For the versions
-available, see the [tags on this
-repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
 
 ## Authors
 
@@ -90,8 +86,4 @@ This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
 Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
 details
 
-## Acknowledgments
 
-  - Hat tip to anyone whose code is used
-  - Inspiration
-  - etc
